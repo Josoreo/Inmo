@@ -24,7 +24,7 @@ attachment.content_id = ContentId('Example Content ID')
 message.attachment = attachment
 """
 try:
-    sendgrid_client = SendGridAPIClient(os.environ.get('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'))
+    sendgrid_client = SendGridAPIClient(os.environ.get('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'))
     response = sendgrid_client.send(message)
     print(response.status_code)
     print(response.body)
