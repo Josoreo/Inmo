@@ -5,8 +5,8 @@ The goal of this project is to create an automated process that notifies tenants
 
 Esp: Proyecto automatización inmobiliaria alquileres
 
-La idea de este proyecto es poder empezar a aplicar los conocimientos que vamos adquiriendo en estas primeras etapas de aprendizaje en el mundo dev.
-Es un proyecto para una inmobiliaria que administra muchos alquileres de inmuebles y no tiene automatizado el proceso de aviso por mail o similar a cada inquilino
+La idea de este proyecto es poder empezar a aplicar los conocimientos que vamos adquiriendo en estas primeras de aprendizaje en el mundo dev.
+Es un proyecto para una inmobiliaria que administra alquiler de inmuebles y no tiene automatizado el proceso de aviso por mail o similar a cada inquilino
 lo que debe abonar cada mes.
 Entonces, buscamos una app que extraiga datos de una planilla, complete sobre un templete de un mail los datos importantes (mail, nombre, $, etc) y se realice el envío
 de dicho mail automáticamente.
