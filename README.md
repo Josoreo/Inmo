@@ -1,9 +1,6 @@
 Eng: Rental real estate automation project.
 
-The idea of this project is to be able to apply the knowledge that we are acquiring in these early stages of learning in the dev world.
-It´s a project for a real estate company that manages many rentals and does not have an automated notification process by mail, or other, to each tenant.
-what they have to pay each month.
-So, we are looking for an app that extracts data from a spreadsheet, completes the important data on an email template (mail, name, $, etc.) and sends it automatically.
+The goal of this project is to create an automated process that notifies tenants of rental changes by email. The app will extract important data from a spreadsheet and fill in the necessary information on a mail template, which will then be sent to the tenant. This would save the company time and money by not having to manually send out these notifications.
 
 
 Esp: Proyecto automatización inmobiliaria alquileres
